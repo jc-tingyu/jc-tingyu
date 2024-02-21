@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ting-yu-joyce-chen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ting-yu-joyce-chen" height="30" width="40" /></a>
 <a href="https://medium.com/@joycetingyu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@joycetingyu" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc8zhajsshmtt78ootdtmlea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc8zhajsshmtt78ootdtmlea" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@inkandcrystal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@inkandcrystal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
