@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Joyce Chen</h1>
+<h1 align="center">Hi! I'm Joyce Chen</h1>
 <h3 align="center">A data enthusiast with a curious mindset</h3>
 
 - 📝 I regularly write articles on [https://medium.com/@joycetingyu](https://medium.com/@joycetingyu)
