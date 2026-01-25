@@ -1,9 +1,9 @@
 <h1 align="center">Hi! I'm Joyce Chen</h1>
 <h3 align="center">A data enthusiast with a curious mindset</h3>
 
-- 📝 I regularly write articles on [https://medium.com/@joycetingyu](https://medium.com/@joycetingyu)
+- I regularly write articles on [https://medium.com/@joycetingyu](https://medium.com/@joycetingyu)
 
-- 📫 How to reach me **Ting-Yu.Chen.2024@marshall.usc.edu**
+- How to reach me **Ting-Yu.Chen.2024@marshall.usc.edu**
 
 - My Art Account: [https://www.instagram.com/jcrystalart
 ](https://www.instagram.com/jcrystalart/)
