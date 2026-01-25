@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **Ting-Yu.Chen.2024@marshall.usc.edu**
 
+- My Art Account: [
+](https://www.instagram.com/jcrystalart/)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ting-yu-joyce-chen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ting-yu-joyce-chen" height="30" width="40" /></a>
